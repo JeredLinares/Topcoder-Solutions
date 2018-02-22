@@ -3,6 +3,7 @@
 
 
 This is my Top Coder directory
+==============================
 
 I'm mostly planning to use this as part of my github resume. 
 
