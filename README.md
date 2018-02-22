@@ -1,4 +1,4 @@
-#Jered's TopCoder Challenges
+# Jered's TopCoder Challenges
 
 I'm looking for some credibility in the software space and figured this would be a fun way to gain some. I'll add write-ups if I find the time, but mostly this will be a directory of my solutions to the various SRM challenges.
 
