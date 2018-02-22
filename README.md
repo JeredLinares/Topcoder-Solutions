@@ -1,6 +1,8 @@
-# Jered's TopCoder Challenges
+# Jered's Topcoder Challenges
 
-I'm looking for some credibility in the software space and figured this would be a fun way to gain some. I'll add write-ups if I find the time, but mostly this will be a directory of my solutions to the various SRM challenges.
+Here you will find solutions to a variety of Topcoder problems. This is not meant to be novel, but instead one of many possible solutions to these excellent puzzles. It should be clear, but to be overt, these were not my puzzles, but are published at regular intervals by http://topcoder.com as part of their competitive programming series. 
+
+for some credibility in the software space and figured this would be a fun way to gain some. I'll add write-ups if I find the time, but mostly this will be a directory of my solutions to the various SRM challenges.
 
 Table of Contents
 1. [Jered Linares](#Jered-Linares)
