@@ -19,7 +19,8 @@ Table of Contents
 [back to top](#Programming-Topics)
 
 ## Runner 
-The `Runner.java` file will load testing data from `\[challenge\]-d2-\[problem\].data`
+The `Runner.java` file will load testing data from `[challenge]-d2-[problem].data` and test the class using this data.
+
 [back to top](#Runner)
 
 ## SRMs
