@@ -7,6 +7,7 @@ for some credibility in the software space and figured this would be a fun way t
 Table of Contents
 - [Jered Linares](#Jered-Linares)
 - [Programming Topics](Programming-Topics)
+- [Runner](#Runner)
 - [SRMs](#SRMs)
 	- 730
 - [Resume](#Resume)
@@ -17,6 +18,9 @@ Table of Contents
 ## Programming Topics
 [back to top](#Programming-Topics)
 
+## Runner 
+The `Runner.java` file will load testing data from `\[challenge\]-d2-\[problem\].data`
+[back to top](#Runner)
 
 ## SRMs
 [back to top](#SRMs)
