@@ -8,7 +8,7 @@ Table of Contents
 1. [Jered Linares](#Jered-Linares)
 2. [Programming Topics](Programming-Topics)
 3. [SRMs](#SRMs)
-	3.1. 730
+  1. 730
 4. [Resume](#Resume)
 
 ## Jered Linares
