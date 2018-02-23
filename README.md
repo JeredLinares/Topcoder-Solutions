@@ -11,6 +11,13 @@ Table of Contents
 	3.1. 730()
 4. [Resume]()
 
-##Jered Linares
+## Jered Linares
 [back to top](#Jered-Linares)
 
+## Programming Topics(#Programming-Topics)
+
+
+## SRMs
+
+
+## Resume 
