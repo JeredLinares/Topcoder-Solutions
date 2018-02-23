@@ -6,18 +6,20 @@ for some credibility in the software space and figured this would be a fun way t
 
 Table of Contents
 1. [Jered Linares](#Jered-Linares)
-2. [Programming Topics]()
-3. [SRMs]()
-	3.1. 730()
-4. [Resume]()
+2. [Programming Topics](Programming-Topics)
+3. [SRMs](#SRMs)
+	3.1. 730
+4. [Resume](#Resume)
 
 ## Jered Linares
 [back to top](#Jered-Linares)
 
-## Programming Topics(#Programming-Topics)
+## Programming Topics
+[back to top](#Programming-Topics)
 
 
 ## SRMs
-
+[back to top](#SRMs)
 
 ## Resume 
+[back to top](#Resume)
