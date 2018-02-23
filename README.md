@@ -5,11 +5,11 @@ Here you will find solutions to a variety of Topcoder problems. This is not mean
 for some credibility in the software space and figured this would be a fun way to gain some. I'll add write-ups if I find the time, but mostly this will be a directory of my solutions to the various SRM challenges.
 
 Table of Contents
-1. [Jered Linares](#Jered-Linares)
-2. [Programming Topics](Programming-Topics)
-3. [SRMs](#SRMs)
-  1. 730
-4. [Resume](#Resume)
+- [Jered Linares](#Jered-Linares)
+- [Programming Topics](Programming-Topics)
+- [SRMs](#SRMs)
+	- 730
+- [Resume](#Resume)
 
 ## Jered Linares
 [back to top](#Jered-Linares)
