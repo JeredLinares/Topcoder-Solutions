@@ -26,5 +26,10 @@ The `Runner.java` file will load testing data from `[challenge]-d2-[problem].dat
 ## SRMs
 [back to top](#SRMs)
 
+### 730 
+This is the first challege that I am attempting to write up. 2/22/2018.
+
+
+
 ## Resume 
 [back to top](#Resume)
