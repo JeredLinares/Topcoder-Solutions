@@ -8,7 +8,7 @@ Table of Contents
 - [SRMs](#SRMs)
 	- [Runner](#Runner)
 	- [730](#730)
-- [Resume](#Resume)
+- [Resume](#resume)
 
 ## Jered Linares 
 Jered Linares has trained in engineering, computer science, research, and medicine. He earned a B.S. from Illinois Institute of Technology (IIT) in Biomedical Engieering with a minor in Computer Science and went on to earn an M.D. from the University of Illinois at Chicago (UIC). He completed two years of internal medicine residency training at UIC and went on to an NIH T32 Fellowship. He now works as a research fellow and as founder of the startup P-Wave working in data science, machine learning and their application to bio-tech and health-tech. 
@@ -52,4 +52,4 @@ This is the first challege that I am attempting to write up. 2/22/2018.
 
 
 ## Resume 
-[back to top](#Topcoder-Challenges)
+[back to top](#topcoder-challenges)
