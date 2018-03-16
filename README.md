@@ -52,33 +52,43 @@ This is the first challege that I am attempting to write up. 2/22/2018.
 
 ## Resume 
 Jered Diego Linares, M.D.
+
 JeredL@gmail.com  |  708.307.0951 | 3804 S. 57th Ave. Cicero, IL 60804
+
 Education: 
+
 Medical Doctor: University of Illinois at Chicago, 2010 - 2014
 Designed and implemented a longitudinal community based health intervention in Chicago
 Investigated Pulmonary hypertension in Sickle Cell Disease
 Elucidated the role of the Caldesmon protein in Pulmonary Hypertension
 Served as treasurer of the Latino Medical Student Association
+
 Bachelor of Science - Biomedical Engineering with minor in Computer Science, 2005 - 2010
 Attained a certificate of Leadership Studies though the Leadership Academy
 Held leadership positions in multiple organizations: 
  Latino Culture Group, Judicial Board, Biomedical Engineering Society, Sigma Phi Epsilon
+
 Work Experience: 
+
 National Institutes of Health (NIH) Fellowship at University of Illinois at Chicago, 2016 - Current
 Designed, lead, and implemented an epidemiologic study of Atrial Fibrillation in Latinos
 Evaluated the electrocardiographic changes induced by chronic kidney disease 
 Generated a model for prediction of  stroke utilizing a genetic risk score
 Utilized a RedCap database to create an atrial fibrillation registry for UIC Hospital
+
 Internal Medicine Residency: University of Illinois Hospital and J.B. Veterans’ Hospital, 2014 - 2016
 Performed direct patient care in all areas of Internal Medicine including: 
 Outpatient, Inpatient, Critical Care Medicine, Pulmonology, Cardiology, Nephrology, Endocrinology, Oncology, Sickle Cell Disease, Gastroenterology, Infectious Disease
 Led a clinical team in admission, diagnosis, and treatment of patients 
+
 Engineering Intern, Baxter Healthcare - Global Infusion Systems, 2010-2010
 Developed component requirement documentation for the Colleague Infusion Pump
 Executed and documented Change Control Processes to complete medical device modifications
+
 Regulatory Affairs Intern, Baxter Healthcare - Regulatory Affairs, 2009-2009
 Evaluated safety and efficacy of Class II Medical Devices
 Developed database system for medical device modification tracking
+
 Coding Competitions: 
 TopCoder: Harvard Medical School Challenge - “Minority Variants” 
 Identified misread nucleotides vs. single nucleotide polymorphisms (SNPs)
