@@ -1,4 +1,4 @@
-# Jered's Topcoder Challenges
+# Topcoder Challenges
 
 Here you will find solutions to a variety of Topcoder problems. This is not meant to be novel, but instead one of many possible solutions to these excellent puzzles. It should be clearly stated that these were not my puzzles, but are published at regular intervals by [Topcoder](http://topcoder.com) as part of their competitive programming series. 
 
@@ -21,6 +21,7 @@ Topics I plan to explore include....
 - Analyzing genetic data
 - Vizualizing genetic data
 - Vizualizing geo-coded data
+
 [back to top](#Programming-Topics)
 
 ## SRMs
@@ -51,4 +52,4 @@ This is the first challege that I am attempting to write up. 2/22/2018.
 
 
 ## Resume 
-[back to top](#Resume)
+[back to top](#Topcoder-Challenges)
