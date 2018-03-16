@@ -32,23 +32,20 @@ The `Runner.java` file will load testing data from `[challenge]-d2-[problem].dat
 ### 730 
 This is the first challege that I am attempting to write up. 2/22/2018.
 ### IntervalIntersection
-'
+     10     public int minLength(int x1, int y1, int x2, int y2){
+     11         int start, end;
+     12         start = end = 0;
+     13 
+     14         if(x1 > y2){
+     15             return x1-y2;
+     16         } else if(y1 < x2){
+     17             return x2-y1;
+     18         } else {
+     19             return 0;
+     20         }
+     21     }
+     22 
 
- 10     public int minLength(int x1, int y1, int x2, int y2){
- 11         int start, end;
- 12         start = end = 0;
- 13 
- 14         if(x1 > y2){
- 15             return x1-y2;
- 16         } else if(y1 < x2){
- 17             return x2-y1;
- 18         } else {
- 19             return 0;
- 20         }
- 21     }
- 22 
-
-'
 
 ## Resume 
 [back to top](#Resume)
